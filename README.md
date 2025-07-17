@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I’m Keyur Panchal (@MrKeyur‑CSE)
 
-<!--
-**MrKeyur-CSE/MrKeyur-CSE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**📚 CSE Student | Android & Web Dev | UI/UX Enthusiast | Cloud Explorer**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 What I Do
+- Build **Android and web applications**, with a sharp focus on clean UI/UX design ⚙️  
+- Explore **cloud computing**, DevOps, and CI/CD to streamline tech workflows  
+- Collaborate on creative projects—stream editing, gaming tools, and more  
+
+---
+
+### 🚀 Projects I'm Proud Of
+
+- **CrunchIt** – A mobile-first e-commerce app delivering Indian snacks to your door (College capstone)  
+- **DigitalDoctor** – Healthcare-focused Android app  
+- **Custom calculators & learning apps** for iOS and Android—built solo during my studies  
+
+*(Explore all my 20+ repos to dive deeper!)*
+
+---
+
+### 🌱 Always Learning
+- 💡 DevOps / DevSecOps & CI/CD pipelines  
+- ☁️ Cloud platforms and scalable architectures  
+
+---
+
+### 🤝 Let’s Connect
+- 📫 Email: [keyur.developer.cse@gmail.com]  
+- 🌐 Portfolio: [keytechticks.me](https://mrkeyur-cse.github.io)  
+- 🐦 LikedIn: [@KeyTechTicks](https://www.linkedin.com/in/keyur-panchal-bb8b931a6/)  
+
+---
+
+### 🧠 My Philosophy
+> Code with purpose. Design with empathy. Never stop learning.
+
+---
+
+Thanks for stopping by—feel free to explore my work, open an issue, or just say hello! 😊
